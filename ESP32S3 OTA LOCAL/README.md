@@ -19,5 +19,5 @@ Use this library to my program.
 `#include <ArduinoOTA.h>`
 
 
-## What if the OTA process error / not finished?
+## What if there's an error during the OTA process or it doesn't finish?
 The updated / latest program will not be executed by ESP32. The older version will be executed.
