@@ -18,4 +18,4 @@ When you program the firmware:
 Welcome to my github site!
 
 Please access this address on your favorite browser to see website.
-[https://octarudin.github.io/project](https://octarudin.github.io/project/)
+[[https://octarudin.github.io/ESP32-OTA-Update](https://octarudin.github.io/ESP32-OTA-Update/)]
