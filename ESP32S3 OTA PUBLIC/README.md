@@ -22,4 +22,4 @@ I just added these codes to my main.cpp program.
 and make a routine task with RTOS to check the firmware update.
 
 ## What if the OTA Process failed?
-It will rollback to older firmware.
+It will roll back to older firmware.
