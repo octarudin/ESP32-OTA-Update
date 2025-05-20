@@ -1,5 +1,5 @@
 # Introduction
-This is documentation for updating ESP32-S3 firmware from HTTP / Public Server by using GitHub Pages.
+This is documentation for updating ESP32-S3 firmware from Local WiFi and HTTP / Public Server by using GitHub Pages.
 
 What you need to prepare in public storage (VPS/Another Public Server):
 - firwmare_x.bin --> 'x' indicates version number, i.e. firmware_1.0, firmware_1.1, firmware_2.7, so on.
