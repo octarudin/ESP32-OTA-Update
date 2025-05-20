@@ -1,4 +1,5 @@
 # ESP32 OTA by Public Server (VPS)
+This folder contains ESP32 Over-The-Air (OTA) Program in C++ over GitHub Public Server.
 
 ## Scheme
 - Turn on the ESP32
