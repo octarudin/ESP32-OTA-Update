@@ -1,0 +1,2 @@
+ESP32 terhubung ke jaringan WiFi lokal yang sama dengan laptop.
+Laptop bisa mengirim program via jaringan WiFi.
