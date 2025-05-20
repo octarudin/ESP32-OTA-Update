@@ -1,4 +1,4 @@
-#**Introduction**
+# Introduction
 This is documentation for updating ESP32-S3 firmware from HTTP / Public Server by using GitHub Pages.
 
 What you need to prepare in public storage (VPS/Another Public Server):
