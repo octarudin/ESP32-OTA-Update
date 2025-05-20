@@ -8,13 +8,15 @@ This folder contains ESP32 Over-The-Air (OTA) Program in C++ over Local Wi-Fi.
 
 # What did I do?
 I put these keywords into platform.ini.  
-## upload_protocol = espota        ; Upload by network  
-## upload_port     = 192.168.0.18  ; ESP IP Address  
+```
+upload_protocol = espota        ; Upload by network  
+upload_port     = 192.168.0.18  ; ESP IP Address
+```  
   
 and  
   
 Use this library to my program.  
-#include <ArduinoOTA.h>
+`#include <ArduinoOTA.h>`
 
 
 # What if the OTA process error / not finished?
