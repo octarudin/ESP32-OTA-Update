@@ -7,7 +7,7 @@ This folder contains ESP32 Over-The-Air (OTA) Program in C++ over Local Wi-Fi.
 - After it got an IP Address, you can rebuild and reupload the program to ESP32 over the network.
 
 # What did I do?
-I put these keywords into platform.ini.  
+I add these keywords into platform.ini.  
 ```
 upload_protocol = espota        ; Upload by network  
 upload_port     = 192.168.0.18  ; ESP IP Address
